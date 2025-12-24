@@ -78,13 +78,9 @@ const personas = [
  */
 
 function encontrarParejaEnLaCiudad(personaObjetivo) {
-    let pareja;
-
     for (let persona of personas) {
-        if (persona.ciudad === personaObjetivo.ciudad) pareja = persona;
+        if (persona.ciudad === personaObjetivo.ciudad && persona.genero !== personaObjetivo.genero) return persona;
     }
-
-    return pareja;
 }
 
 console.log(encontrarParejaEnLaCiudad({ nombre: "Camilo", edad: 28, intereses: ["Arte"], ciudad: "Medellín", genero: "Masculino" }));
@@ -108,7 +104,8 @@ function encontrarParejasPotencialesPorEdad(personaObjetivo) {
 
     for (let persona of personas) {
         if (persona.genero !== personaObjetivo.genero
-            && persona.edad - personaObjetivo.edad <= 5 ) parejasPotenciales = persona;
+            && persona.ciudad === personaObjetivo.edad
+            && persona.edad - personaObjetivo.edad <= 5) parejasPotenciales.push(persona);
     }
 
     return parejasPotenciales;
@@ -122,6 +119,21 @@ console.log(encontrarParejasPotencialesPorEdad({ nombre: "Camilo", edad: 28, int
  *  del genero contrario que al menos compartan un interes en comun con la persona que se paso como parametro de la funcion, las
  *  personas dentro de la lista deben estar en la misma ciudad.
  */
+
+function encontrarParejaPorInteres(personaObjetivo) {
+    let personasPotenciales = [];
+    for(let i = 0; i < personas.length; i++) {
+        if (personas[i].ciudad === personaObjetivo.ciudad && personas[i].genero !== personaObjetivo.genero) {
+            for (let j = 0; j < personas[i].intereses.length; j++) {
+                if (personaObjetivo.intereses.includes(personas[i].intereses[j])) {
+                    personasPotenciales.push(personas[i]);
+                }
+            }
+        }
+    }
+
+    return personasPotenciales
+}
 
 
 // el siguiente console.log debe imprimir 3 parejas potenciales (Daniela de 29 años, Valentina de 30 años y Daniela de 58 años)
