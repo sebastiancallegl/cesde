@@ -1,0 +1,872 @@
+[
+    {
+        "code": "903022448B",
+        "universityName": "Universidad Nacional",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Contaduría Pública",
+            "Ingeniería de Sistemas",
+            "Medicina Veterinaria",
+            "Derecho",
+            "Comunicación Social",
+            "Ingeniería Civil",
+            "Artes Plásticas",
+            "Medicina",
+            "Administración de Empresas",
+            "Psicología",
+            "Economía",
+            "Arquitectura",
+            "Sociología",
+            "Diseño Gráfico",
+            "Ingeniería Industrial",
+            "Licenciatura en Lenguas Extranjeras",
+            "Filosofía"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1994,
+            "type": "Public",
+            "globalRanking": 269
+        }
+    },
+    {
+        "code": "9F5490BD26",
+        "universityName": "Universidad de Antioquia",
+        "accreditation": "Standard",
+        "offeredCareers": [
+            "Ingeniería de Sistemas",
+            "Derecho",
+            "Medicina",
+            "Comunicación Social",
+            "Licenciatura en Lenguas Extranjeras",
+            "Filosofía",
+            "Economía",
+            "Psicología",
+            "Ingeniería Civil",
+            "Ingeniería Industrial",
+            "Biología",
+            "Artes Plásticas",
+            "Administración de Empresas",
+            "Arquitectura",
+            "Diseño Gráfico",
+            "Medicina Veterinaria",
+            "Contaduría Pública"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1938,
+            "type": "Public",
+            "globalRanking": 617
+        }
+    },
+    {
+        "code": "3C31FDD1D0",
+        "universityName": "Universidad de los Andes",
+        "accreditation": "Standard",
+        "offeredCareers": [
+            "Enfermería",
+            "Arquitectura",
+            "Licenciatura en Lenguas Extranjeras",
+            "Sociología",
+            "Ingeniería Civil",
+            "Diseño Gráfico",
+            "Medicina Veterinaria",
+            "Ingeniería de Sistemas",
+            "Derecho",
+            "Filosofía",
+            "Economía",
+            "Biología",
+            "Contaduría Pública",
+            "Artes Plásticas",
+            "Comunicación Social",
+            "Ingeniería Química",
+            "Administración de Empresas"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1870,
+            "type": "Private",
+            "globalRanking": 433
+        }
+    },
+    {
+        "code": "1F3995CD65",
+        "universityName": "Universidad Javeriana",
+        "accreditation": "Standard",
+        "offeredCareers": [
+            "Ingeniería Industrial",
+            "Psicología",
+            "Sociología",
+            "Contaduría Pública",
+            "Ingeniería Química",
+            "Enfermería",
+            "Derecho",
+            "Artes Plásticas",
+            "Medicina Veterinaria",
+            "Comunicación Social",
+            "Economía",
+            "Diseño Gráfico",
+            "Arquitectura",
+            "Filosofía",
+            "Medicina",
+            "Ingeniería de Sistemas",
+            "Biología"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1863,
+            "type": "Public",
+            "globalRanking": 308
+        }
+    },
+    {
+        "code": "306DCB39C1",
+        "universityName": "Universidad del Rosario",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Comunicación Social",
+            "Administración de Empresas",
+            "Ingeniería de Sistemas",
+            "Enfermería",
+            "Biología",
+            "Ingeniería Industrial",
+            "Medicina Veterinaria",
+            "Sociología",
+            "Filosofía",
+            "Derecho",
+            "Medicina",
+            "Diseño Gráfico",
+            "Licenciatura en Lenguas Extranjeras",
+            "Economía",
+            "Ingeniería Civil",
+            "Contaduría Pública",
+            "Artes Plásticas"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1983,
+            "type": "Private",
+            "globalRanking": 479
+        }
+    },
+    {
+        "code": "3868C61959",
+        "universityName": "Universidad del Valle",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Ingeniería Industrial",
+            "Biología",
+            "Ingeniería Civil",
+            "Filosofía",
+            "Arquitectura",
+            "Ingeniería de Sistemas",
+            "Licenciatura en Lenguas Extranjeras",
+            "Derecho",
+            "Medicina",
+            "Psicología",
+            "Comunicación Social",
+            "Ingeniería Química",
+            "Enfermería",
+            "Medicina Veterinaria",
+            "Sociología",
+            "Administración de Empresas",
+            "Artes Plásticas"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1864,
+            "type": "Public",
+            "globalRanking": 598
+        }
+    },
+    {
+        "code": "4257FA061C",
+        "universityName": "Universidad EAFIT",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Administración de Empresas",
+            "Psicología",
+            "Sociología",
+            "Ingeniería de Sistemas",
+            "Derecho",
+            "Ingeniería Civil",
+            "Medicina Veterinaria",
+            "Economía",
+            "Artes Plásticas",
+            "Enfermería",
+            "Licenciatura en Lenguas Extranjeras",
+            "Diseño Gráfico",
+            "Medicina",
+            "Filosofía",
+            "Ingeniería Química",
+            "Arquitectura",
+            "Ingeniería Industrial"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1975,
+            "type": "Public",
+            "globalRanking": 401
+        }
+    },
+    {
+        "code": "454C25D337",
+        "universityName": "Universidad Pontificia Bolivariana",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Ingeniería Civil",
+            "Psicología",
+            "Licenciatura en Lenguas Extranjeras",
+            "Contaduría Pública",
+            "Artes Plásticas",
+            "Medicina Veterinaria",
+            "Comunicación Social",
+            "Diseño Gráfico",
+            "Medicina",
+            "Biología",
+            "Enfermería",
+            "Derecho",
+            "Ingeniería Química",
+            "Arquitectura",
+            "Ingeniería de Sistemas",
+            "Sociología",
+            "Economía"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1962,
+            "type": "Public",
+            "globalRanking": 876
+        }
+    },
+    {
+        "code": "2967A31DB1",
+        "universityName": "Universidad de Medellín",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Ingeniería Química",
+            "Ingeniería de Sistemas",
+            "Ingeniería Industrial",
+            "Arquitectura",
+            "Ingeniería Civil",
+            "Filosofía",
+            "Biología",
+            "Sociología",
+            "Derecho",
+            "Artes Plásticas",
+            "Contaduría Pública",
+            "Enfermería",
+            "Economía",
+            "Psicología",
+            "Medicina",
+            "Comunicación Social",
+            "Administración de Empresas"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1867,
+            "type": "Public",
+            "globalRanking": 595
+        }
+    },
+    {
+        "code": "8FA191BD1A",
+        "universityName": "Universidad Externado",
+        "accreditation": "Standard",
+        "offeredCareers": [
+            "Diseño Gráfico",
+            "Economía",
+            "Medicina Veterinaria",
+            "Ingeniería Química",
+            "Contaduría Pública",
+            "Administración de Empresas",
+            "Ingeniería de Sistemas",
+            "Enfermería",
+            "Licenciatura en Lenguas Extranjeras",
+            "Derecho",
+            "Sociología",
+            "Medicina",
+            "Arquitectura",
+            "Biología",
+            "Artes Plásticas",
+            "Comunicación Social",
+            "Ingeniería Civil"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1901,
+            "type": "Private",
+            "globalRanking": 50
+        }
+    },
+    {
+        "code": "A841955EDD",
+        "universityName": "Universidad de La Sabana",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Economía",
+            "Diseño Gráfico",
+            "Medicina Veterinaria",
+            "Medicina",
+            "Biología",
+            "Licenciatura en Lenguas Extranjeras",
+            "Arquitectura",
+            "Psicología",
+            "Comunicación Social",
+            "Sociología",
+            "Derecho",
+            "Ingeniería de Sistemas",
+            "Filosofía",
+            "Enfermería",
+            "Ingeniería Civil",
+            "Artes Plásticas",
+            "Ingeniería Química"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1999,
+            "type": "Public",
+            "globalRanking": 726
+        }
+    },
+    {
+        "code": "B5F827F7EC",
+        "universityName": "Universidad Industrial de Santander",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Derecho",
+            "Enfermería",
+            "Ingeniería Civil",
+            "Filosofía",
+            "Ingeniería de Sistemas",
+            "Psicología",
+            "Licenciatura en Lenguas Extranjeras",
+            "Medicina",
+            "Biología",
+            "Ingeniería Química",
+            "Comunicación Social",
+            "Artes Plásticas",
+            "Arquitectura",
+            "Administración de Empresas",
+            "Medicina Veterinaria",
+            "Diseño Gráfico",
+            "Economía"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1938,
+            "type": "Public",
+            "globalRanking": 112
+        }
+    },
+    {
+        "code": "2487122CCA",
+        "universityName": "Universidad del Norte",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Arquitectura",
+            "Derecho",
+            "Diseño Gráfico",
+            "Filosofía",
+            "Ingeniería Civil",
+            "Licenciatura en Lenguas Extranjeras",
+            "Biología",
+            "Sociología",
+            "Economía",
+            "Ingeniería Industrial",
+            "Psicología",
+            "Medicina Veterinaria",
+            "Comunicación Social",
+            "Enfermería",
+            "Contaduría Pública",
+            "Ingeniería de Sistemas",
+            "Administración de Empresas"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1924,
+            "type": "Public",
+            "globalRanking": 8
+        }
+    },
+    {
+        "code": "866120EBF2",
+        "universityName": "Universidad de Caldas",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Psicología",
+            "Arquitectura",
+            "Medicina Veterinaria",
+            "Economía",
+            "Derecho",
+            "Biología",
+            "Contaduría Pública",
+            "Ingeniería Civil",
+            "Artes Plásticas",
+            "Filosofía",
+            "Ingeniería Industrial",
+            "Administración de Empresas",
+            "Enfermería",
+            "Comunicación Social",
+            "Ingeniería Química",
+            "Ingeniería de Sistemas",
+            "Sociología"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1958,
+            "type": "Private",
+            "globalRanking": 85
+        }
+    },
+    {
+        "code": "A8B9495855",
+        "universityName": "Universidad de Córdoba",
+        "accreditation": "Standard",
+        "offeredCareers": [
+            "Diseño Gráfico",
+            "Economía",
+            "Sociología",
+            "Contaduría Pública",
+            "Medicina",
+            "Psicología",
+            "Ingeniería Civil",
+            "Medicina Veterinaria",
+            "Artes Plásticas",
+            "Ingeniería Química",
+            "Ingeniería de Sistemas",
+            "Ingeniería Industrial",
+            "Administración de Empresas",
+            "Biología",
+            "Comunicación Social",
+            "Derecho",
+            "Arquitectura"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1937,
+            "type": "Private",
+            "globalRanking": 910
+        }
+    },
+    {
+        "code": "F945123498",
+        "universityName": "Universidad de Nariño",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Ingeniería Química",
+            "Comunicación Social",
+            "Ingeniería de Sistemas",
+            "Arquitectura",
+            "Artes Plásticas",
+            "Derecho",
+            "Ingeniería Civil",
+            "Contaduría Pública",
+            "Ingeniería Industrial",
+            "Sociología",
+            "Diseño Gráfico",
+            "Medicina",
+            "Psicología",
+            "Licenciatura en Lenguas Extranjeras",
+            "Economía",
+            "Enfermería",
+            "Filosofía"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1903,
+            "type": "Public",
+            "globalRanking": 28
+        }
+    },
+    {
+        "code": "35D574CC2D",
+        "universityName": "Universidad del Cauca",
+        "accreditation": "Standard",
+        "offeredCareers": [
+            "Derecho",
+            "Economía",
+            "Arquitectura",
+            "Sociología",
+            "Comunicación Social",
+            "Psicología",
+            "Ingeniería Química",
+            "Medicina Veterinaria",
+            "Licenciatura en Lenguas Extranjeras",
+            "Ingeniería Industrial",
+            "Artes Plásticas",
+            "Filosofía",
+            "Ingeniería Civil",
+            "Biología",
+            "Enfermería",
+            "Contaduría Pública",
+            "Ingeniería de Sistemas"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1880,
+            "type": "Private",
+            "globalRanking": 691
+        }
+    },
+    {
+        "code": "D4C65E4008",
+        "universityName": "Universidad de Cartagena",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Psicología",
+            "Contaduría Pública",
+            "Derecho",
+            "Biología",
+            "Comunicación Social",
+            "Arquitectura",
+            "Administración de Empresas",
+            "Economía",
+            "Ingeniería Química",
+            "Licenciatura en Lenguas Extranjeras",
+            "Medicina Veterinaria",
+            "Enfermería",
+            "Medicina",
+            "Ingeniería Civil",
+            "Ingeniería Industrial",
+            "Artes Plásticas",
+            "Ingeniería de Sistemas"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1984,
+            "type": "Public",
+            "globalRanking": 483
+        }
+    },
+    {
+        "code": "378025CF01",
+        "universityName": "Universidad de Pamplona",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Licenciatura en Lenguas Extranjeras",
+            "Psicología",
+            "Filosofía",
+            "Medicina",
+            "Contaduría Pública",
+            "Ingeniería Industrial",
+            "Biología",
+            "Medicina Veterinaria",
+            "Diseño Gráfico",
+            "Sociología",
+            "Artes Plásticas",
+            "Ingeniería Civil",
+            "Derecho",
+            "Ingeniería de Sistemas",
+            "Comunicación Social",
+            "Arquitectura",
+            "Enfermería"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1951,
+            "type": "Private",
+            "globalRanking": 711
+        }
+    },
+    {
+        "code": "9DFB945F3F",
+        "universityName": "Universidad del Quindío",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Enfermería",
+            "Ingeniería Industrial",
+            "Comunicación Social",
+            "Medicina",
+            "Arquitectura",
+            "Biología",
+            "Artes Plásticas",
+            "Licenciatura en Lenguas Extranjeras",
+            "Diseño Gráfico",
+            "Psicología",
+            "Medicina Veterinaria",
+            "Filosofía",
+            "Contaduría Pública",
+            "Derecho",
+            "Ingeniería Química",
+            "Economía",
+            "Ingeniería Civil"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1904,
+            "type": "Private",
+            "globalRanking": 171
+        }
+    },
+    {
+        "code": "8AE61249BB",
+        "universityName": "Universidad del Tolima",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Sociología",
+            "Ingeniería Industrial",
+            "Ingeniería Civil",
+            "Economía",
+            "Derecho",
+            "Enfermería",
+            "Contaduría Pública",
+            "Medicina",
+            "Psicología",
+            "Comunicación Social",
+            "Filosofía",
+            "Administración de Empresas",
+            "Artes Plásticas",
+            "Diseño Gráfico",
+            "Arquitectura",
+            "Ingeniería de Sistemas",
+            "Licenciatura en Lenguas Extranjeras"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1957,
+            "type": "Public",
+            "globalRanking": 479
+        }
+    },
+    {
+        "code": "8F8663CAF1",
+        "universityName": "Universidad de Magdalena",
+        "accreditation": "Standard",
+        "offeredCareers": [
+            "Biología",
+            "Artes Plásticas",
+            "Filosofía",
+            "Ingeniería Industrial",
+            "Administración de Empresas",
+            "Medicina Veterinaria",
+            "Arquitectura",
+            "Comunicación Social",
+            "Economía",
+            "Medicina",
+            "Derecho",
+            "Sociología",
+            "Psicología",
+            "Contaduría Pública",
+            "Diseño Gráfico",
+            "Ingeniería de Sistemas",
+            "Ingeniería Civil"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1971,
+            "type": "Private",
+            "globalRanking": 19
+        }
+    },
+    {
+        "code": "21E067E9C1",
+        "universityName": "Universidad de La Guajira",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Biología",
+            "Administración de Empresas",
+            "Derecho",
+            "Ingeniería Química",
+            "Contaduría Pública",
+            "Psicología",
+            "Enfermería",
+            "Diseño Gráfico",
+            "Medicina Veterinaria",
+            "Ingeniería de Sistemas",
+            "Sociología",
+            "Comunicación Social",
+            "Ingeniería Civil",
+            "Licenciatura en Lenguas Extranjeras",
+            "Filosofía",
+            "Medicina",
+            "Artes Plásticas"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1857,
+            "type": "Private",
+            "globalRanking": 407
+        }
+    },
+    {
+        "code": "245963A79F",
+        "universityName": "Universidad del Chocó",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Ingeniería de Sistemas",
+            "Sociología",
+            "Derecho",
+            "Licenciatura en Lenguas Extranjeras",
+            "Economía",
+            "Medicina",
+            "Enfermería",
+            "Psicología",
+            "Ingeniería Industrial",
+            "Administración de Empresas",
+            "Biología",
+            "Filosofía",
+            "Arquitectura",
+            "Diseño Gráfico",
+            "Contaduría Pública",
+            "Ingeniería Química",
+            "Ingeniería Civil"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1877,
+            "type": "Public",
+            "globalRanking": 451
+        }
+    },
+    {
+        "code": "7FBFC26040",
+        "universityName": "Universidad de la Amazonía",
+        "accreditation": "Standard",
+        "offeredCareers": [
+            "Biología",
+            "Diseño Gráfico",
+            "Ingeniería Industrial",
+            "Arquitectura",
+            "Psicología",
+            "Medicina Veterinaria",
+            "Comunicación Social",
+            "Sociología",
+            "Contaduría Pública",
+            "Licenciatura en Lenguas Extranjeras",
+            "Artes Plásticas",
+            "Medicina",
+            "Enfermería",
+            "Ingeniería Química",
+            "Derecho",
+            "Administración de Empresas",
+            "Ingeniería de Sistemas"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1875,
+            "type": "Public",
+            "globalRanking": 278
+        }
+    },
+    {
+        "code": "D9B9A78A67",
+        "universityName": "Universidad de los Llanos",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Arquitectura",
+            "Contaduría Pública",
+            "Enfermería",
+            "Ingeniería Química",
+            "Ingeniería de Sistemas",
+            "Diseño Gráfico",
+            "Comunicación Social",
+            "Derecho",
+            "Biología",
+            "Psicología",
+            "Sociología",
+            "Administración de Empresas",
+            "Artes Plásticas",
+            "Ingeniería Industrial",
+            "Filosofía",
+            "Medicina",
+            "Medicina Veterinaria"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1936,
+            "type": "Private",
+            "globalRanking": 762
+        }
+    },
+    {
+        "code": "017A856E30",
+        "universityName": "Universidad Francisco de Paula Santander",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Ingeniería de Sistemas",
+            "Filosofía",
+            "Medicina Veterinaria",
+            "Arquitectura",
+            "Biología",
+            "Economía",
+            "Psicología",
+            "Artes Plásticas",
+            "Enfermería",
+            "Ingeniería Química",
+            "Ingeniería Industrial",
+            "Ingeniería Civil",
+            "Sociología",
+            "Diseño Gráfico",
+            "Derecho",
+            "Administración de Empresas",
+            "Comunicación Social"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1894,
+            "type": "Private",
+            "globalRanking": 153
+        }
+    },
+    {
+        "code": "4DFABE0D9A",
+        "universityName": "Universidad Distrital",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Filosofía",
+            "Sociología",
+            "Derecho",
+            "Medicina Veterinaria",
+            "Ingeniería Química",
+            "Administración de Empresas",
+            "Economía",
+            "Ingeniería de Sistemas",
+            "Medicina",
+            "Artes Plásticas",
+            "Arquitectura",
+            "Comunicación Social",
+            "Biología",
+            "Licenciatura en Lenguas Extranjeras",
+            "Enfermería",
+            "Contaduría Pública",
+            "Ingeniería Civil"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1870,
+            "type": "Public",
+            "globalRanking": 259
+        }
+    },
+    {
+        "code": "276B11CD10",
+        "universityName": "Universidad Pedagógica",
+        "accreditation": "High Quality",
+        "offeredCareers": [
+            "Medicina Veterinaria",
+            "Arquitectura",
+            "Sociología",
+            "Ingeniería Civil",
+            "Administración de Empresas",
+            "Contaduría Pública",
+            "Diseño Gráfico",
+            "Economía",
+            "Enfermería",
+            "Comunicación Social",
+            "Psicología",
+            "Medicina",
+            "Derecho",
+            "Filosofía",
+            "Licenciatura en Lenguas Extranjeras",
+            "Ingeniería de Sistemas",
+            "Ingeniería Industrial"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1915,
+            "type": "Private",
+            "globalRanking": 969
+        }
+    },
+    {
+        "code": "10EC9CF18A",
+        "universityName": "Universidad CES",
+        "accreditation": "Standard",
+        "offeredCareers": [
+            "Ingeniería Industrial",
+            "Contaduría Pública",
+            "Artes Plásticas",
+            "Medicina",
+            "Administración de Empresas",
+            "Arquitectura",
+            "Ingeniería Química",
+            "Diseño Gráfico",
+            "Enfermería",
+            "Biología",
+            "Ingeniería Civil",
+            "Medicina Veterinaria",
+            "Licenciatura en Lenguas Extranjeras",
+            "Comunicación Social",
+            "Filosofía",
+            "Sociología",
+            "Ingeniería de Sistemas"
+        ],
+        "additionalInfo": {
+            "foundationYear": 1953,
+            "type": "Private",
+            "globalRanking": 387
+        }
+    }
+]
