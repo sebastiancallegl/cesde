@@ -200,3 +200,18 @@ const animalsCollection = [
         habitat: ["Prairies", "Steppes"],
     }
 ];
+
+
+
+function getAnimalsByColor (animalColor) {
+    let listColorAnimal = animalsCollection.filter((element) => {
+        return element.color.includes(animalColor);
+    })
+    return listColorAnimal.length;
+
+}
+     
+console.log(getAnimalsByColor("Red-brown"))
+console.log(getAnimalsByColor("brown"))
+console.log(getAnimalsByColor("blue"))
+console.log(getAnimalsByColor("red"))
